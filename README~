@@ -1,3 +1,0 @@
-install naomeshes-0.6.3-linux-x64-installer
-extract the nao_meshes package somewhere listed in your ROS_PACKAGE_PATH
-then you can use the official textured meshes
